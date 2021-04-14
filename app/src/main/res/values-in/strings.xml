@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">GithUp</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="action_search">Cari</string>
+    <string name="search_hint">Telusuri githup</string>
+
+    <string name="following">mengikuti</string>
+    <string name="followers">diikuti</string>
+    <string name="repository">repositories</string>
+    <string name="action_share">bagikan</string>
+
+</resources>
